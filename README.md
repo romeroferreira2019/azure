@@ -1,0 +1,13 @@
+# azure
+Entendi que O Microsoft Azure é uma plataforma de nuvem pública da Microsoft que oferece mais de 200 produtos e serviços de nuvem. O Azure permite que empresas criem, gerenciem e implantem aplicativos, independentemente do local, utilizando linguagens, estruturas e infraestruturas. 
+O Azure substitui o modelo convencional de infraestrutura, em que as empresas precisariam investir em servidores e outras aplicações para informatizar os processos. 
+Descrição
+Serviços
+O Azure oferece uma ampla gama de serviços, incluindo PaaS (plataforma como serviço), IaaS (infraestrutura como serviço), DBaaS (banco de dados como serviço) e serviços de bancos de dados gerenciados
+Segurança
+O Azure tem camadas de segurança para proteger os usuários de ameaças, como ataques DDoS
+Gerenciamento de rede
+O Azure oferece um Gerenciador de Rede Virtual que permite agrupar, configurar, implantar e gerenciar redes virtuais
+Backup
+O Azure tem backup automatizado de dados e permite o armazenamento remoto de dados
+Tudo isso para empresas nacionais ou multinacionais. Não importa onde estiver o azure pode ajudar.
